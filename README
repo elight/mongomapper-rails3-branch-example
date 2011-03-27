@@ -1,3 +1,5 @@
 Put this on Github as the "rails3" branch (https://github.com/jnunemaker/mongomapper/tree/rails3) changes how MongoMapper's connection is provisioned.  Didn't see this anywhere after doing some google searching.  Maybe someone else will get some mileage out of this.
 
+For the salient details, see https://github.com/elight/mongomapper-rails3-branch-example/blob/master/config/initializers/mongo.rb
+
 -EL
